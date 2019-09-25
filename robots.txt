@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vautheewa.brsnt.us/sitemap.xml
